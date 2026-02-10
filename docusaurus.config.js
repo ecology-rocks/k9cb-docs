@@ -84,10 +84,6 @@ const config = {
                 label: 'Getting Started',
                 to: '/docs/intro',
               },
-              {
-                label: 'Map Rules',
-                to: '/docs/category/rules',
-              },
             ],
           },
           {

@@ -25,6 +25,5 @@ Designing courses requires balancing creativity with strict rules. K9 Course Bui
 
 If you run into a bug or have a feature request:
 
-1.  Check the [Known Issues](/docs/category/known-issues) section.
-2.  Check out the [Roadmap](https://k9coursebuilder.com/roadmap).
-3.  Email Sam directly - hello@k9coursebuilder.com
+1.  Check out the [Roadmap](https://k9coursebuilder.com/roadmap).
+2.  Email Sam directly - hello@k9coursebuilder.com
