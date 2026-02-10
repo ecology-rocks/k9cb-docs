@@ -1,0 +1,60 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* Primary Color: #4CAF50 (Green from your buttons/badges) */
+  --ifm-color-primary: #4caf50;
+  --ifm-color-primary-dark: #449d48;
+  --ifm-color-primary-darker: #409444;
+  --ifm-color-primary-darkest: #357a38;
+  --ifm-color-primary-light: #5eba61;
+  --ifm-color-primary-lighter: #67bf6a;
+  --ifm-color-primary-lightest: #82ce85;
+  
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  
+  /* Matches your Vue app font stack */
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Dark mode overrides */
+[data-theme='dark'] {
+  --ifm-color-primary: #66bb6a;
+  --ifm-color-primary-dark: #4cb050;
+  --ifm-color-primary-darker: #42a446;
+  --ifm-color-primary-darkest: #2e8032;
+  --ifm-color-primary-light: #80c783;
+  --ifm-color-primary-lighter: #8dcd90;
+  --ifm-color-primary-lightest: #b3dfb5;
+  
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
+}
+
+/* Navbar Customization to match your #2c3e50 header */
+.navbar {
+  background-color: #2c3e50;
+  color: #fff;
+}
+
+.navbar__title, .navbar__item {
+  color: #fff;
+}
+
+.navbar__link:hover, .navbar__link--active {
+  color: #4caf50;
+}
+
+/* Hero customization */
+.hero {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  color: #2c3e50;
+}
+
+.hero__title {
+  color: #2c3e50;
+}
