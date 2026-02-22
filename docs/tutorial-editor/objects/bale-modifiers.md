@@ -1,6 +1,13 @@
-# Bale Modifiers
+---
+sidebar_position: 3
+---
+# Bales & Modifiers
 
-To mark [bales](objects.md#bales) with special characteristics, you'll need to use the bale modifier tools located in the left sidebar. These bale modifier tools can change the orientation, the lean, anchor markings, and anchor lines. Some modifications cannot be used together, e.g., you can't lean anything other than a flat bale, and you can't mark a leaner or a pillar bale as an anchor. Below, find walkthroughs for each of the Bale Modifiers. 
+Bales will be your most frequently used object. To place a bale, select the bale tool and click to place. Bales are always placed long-edge horizontal. To see more about bales, check out [Bale Modifiers](bale-modifiers.md).
+
+Default bale sizes are set in the Course Settings Modal, found by clicking the Cog icon in the top right of the sidebar. Unlike other objects, bales are not resizeable from the transform handles, but can be customized individually from the customization menu. If you need to have multiple sizes of bales, you can right click a bale to customize it. If you're placing a lot of those custom bales, we recommend a copy/paste workflow to speed things up. 
+
+To mark bales with special characteristics, you'll need to use the bale modifier tools located in the left sidebar. These bale modifier tools can change the orientation, the lean, anchor markings, and anchor lines. Some modifications cannot be used together, e.g., you can't lean anything other than a flat bale, and you can't mark a leaner or a pillar bale as an anchor. Below, find walkthroughs for each of the Bale Modifiers. 
 
 ## Anchor Bales
 

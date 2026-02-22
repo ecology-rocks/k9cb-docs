@@ -1,0 +1,8 @@
+{
+  "label": "Special Modes",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "When you enter these special modes, you'll be taken out of the usual editor and lose access to many object addition, selection, and editing features. However, these special modes allow you to mark up your map with necessary features like tunnels and hides."
+  }
+}

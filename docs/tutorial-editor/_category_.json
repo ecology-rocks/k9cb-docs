@@ -1,8 +1,8 @@
 {
-  "label": "Editor Walkthroughs",
+  "label": "The Editor Interface",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "All of the tools and quirks, explained in easy-to-follow guides."
+    "description": "The Editor is where you design your courses. The screen is divided into the Canvas (your ring) and the Sidebar (your tools)."
   }
 }
