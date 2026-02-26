@@ -78,6 +78,5 @@ And you're done with the base layer! Now, return to the editor to finish up plac
 ![Anchor Bale](./assets/anchor-bale.png)
 
 When you're ready to start building the second layer, your layer toggles are at the top of the sidebar, right below the name of your map. Select L1, L2, or L3 to jump between. Bales on different layers are different colors. 
-image.png
 
-I hope that is helpful and please let me know if you have any other questions.
+![Layer Selector](./assets/sidebar-layers.png)
