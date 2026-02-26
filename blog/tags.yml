@@ -3,7 +3,7 @@ announcement:
   permalink: /announcements
   description: "Big news, release notes, and updates about K9 Course Builder."
 
-tutorial:
+tutorials:
   label: Tutorials
   permalink: /tutorials
   description: "Step-by-step guides to help you design better courses."
@@ -12,3 +12,8 @@ behind-the-scenes:
   label: Behind the Scenes
   permalink: /bts
   description: "A look at the code and chaos behind the app."
+
+questions:
+  label: Questions
+  permalink: /questions
+  description: "Answering individual user questions."
