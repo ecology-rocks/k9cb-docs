@@ -17,3 +17,8 @@ questions:
   label: Questions
   permalink: /questions
   description: "Answering individual user questions."
+
+release:
+  label: Feature Release & Bug Fix
+  permalink: /release
+  description: "Feature releases and bug fix announcements"
